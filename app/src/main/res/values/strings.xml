@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Kiboko_WellnessApp</string>
+    <string name="title_activity_healthy_recipes">Healthy Recipes</string>
+    <string name="title_activity_nutritional_advice">Nutritional Advice</string>
+    <string name="health_and_wellness">HEALTH AND WELLNESS</string>
+    <string name="healthy_recipes_btn">❤️Healthy Recipes</string>
+    <string name="nutrition_advice_btn">🥦Nutrition Advice</string>
+    <string name="meditation_tips_btn">🧘🏻‍♂️ Meditation Tips</string>
+    <string name="hydration_alert_btn">🥛️Hydration Alert</string>
+    <string name="start_exercise_btn">🏃Start Exercise</string>
+    <string name="daily_motivation_btn">💪Daily Motivation</string>
+    <string name="weekly_goals_btn">🎯Weekly Goals</string>
+    <string name="check_progress_btn">🏅📈Check Progress</string>
+    <string name="wellness_image_desc">Wellness Image</string>
+    <string name="workout_exercises">Workout Exercises</string>
+    <string name="timer_default">Timer: 00</string>
+    <string name="start_workout">Start Workout</string>
+    <string name="next_exercise">Next Exercise</string>
+    <string name="title_activity_check_progress">Check Progress</string>
+    <string name="title_activity_weekly_goals">Weekly Goals</string>
+    <string name="title_activity_daily_motivation">Daily Motivation</string>
+    <string name="title_activity_meditation">Meditation</string>
+    <string name="title_activity_hydration_alert">Hydration Alert</string>
+    <string name="title_activity_start_exercise">Start Exercise</string>
+
+    <!-- Healthy Recipes -->
+    <string name="recipe_1">1. Quinoa Salad with Avocado</string>
+    <string name="recipe_1_desc">A protein-packed salad with fresh greens, quinoa, and creamy avocado.</string>
+    <string name="recipe_2">2. Baked Salmon with Asparagus</string>
+    <string name="recipe_2_desc">Heart-healthy omega-3s paired with roasted green vegetables.</string>
+    <string name="recipe_3">3. Berry Smoothie Bowl</string>
+    <string name="recipe_3_desc">Antioxidant-rich berries blended with yogurt and topped with nuts.</string>
+
+    <!-- Nutrition Advice -->
+    <string name="advice_1">Eat more whole foods and less processed snacks.</string>
+    <string name="advice_2">Prioritize lean proteins and plenty of fiber-rich vegetables.</string>
+    <string name="advice_3">Monitor your sugar intake and opt for natural sweeteners.</string>
+    <string name="nutrition_tip_1">Tip 1: Whole Foods</string>
+    <string name="nutrition_tip_2">Tip 2: Balanced Plate</string>
+    <string name="nutrition_tip_3">Tip 3: Less Sugar</string>
+
+    <!-- Meditation Tips -->
+    <string name="meditation_step_1">Find a quiet place to sit comfortably.</string>
+    <string name="meditation_step_2">Focus on your breath as it enters and leaves your body.</string>
+    <string name="meditation_step_3">When your mind wanders, gently bring it back to your breathing.</string>
+
+    <!-- Hydration -->
+    <string name="hydration_target">Daily Target: 2.5 Liters</string>
+    <string name="hydration_current">Current Intake: 0.8 Liters</string>
+    <string name="add_water_btn">Add 250ml</string>
+
+    <!-- Daily Motivation -->
+    <string name="quote_1">"Health is a state of body. Wellness is a state of being."</string>
+    <string name="quote_2">"Your body hears everything your mind says. Stay positive."</string>
+    <string name="quote_3">"The only bad workout is the one that didn't happen."</string>
+
+    <!-- Weekly Goals -->
+    <string name="goal_1">Exercise 4 times a week</string>
+    <string name="goal_2">Drink 8 glasses of water daily</string>
+    <string name="goal_3">Meditate for 10 minutes every morning</string>
+
+    <!-- Check Progress -->
+    <string name="daily_steps_label">Daily Steps</string>
+    <string name="steps_count_value">6,500 / 10,000</string>
+    <string name="calories_burned_label">Calories Burned</string>
+    <string name="calories_count_value">1,200 / 2,500 kcal</string>
+
+    <!-- Start Exercise -->
+    <string name="exercise_1">Jumping Jacks - 30 seconds</string>
+    <string name="exercise_2">Pushups - 15 reps</string>
+    <string name="exercise_3">Plank - 1 minute</string>
+    <string name="exercise_4">Squats - 20 reps</string>
+</resources>
